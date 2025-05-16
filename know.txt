@@ -1,0 +1,4 @@
+to update vs code
+
+$ sudo apt update
+$ sudo apt upgrade code
