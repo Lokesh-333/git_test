@@ -2,3 +2,8 @@ to update vs code
 
 $ sudo apt update
 $ sudo apt upgrade code
+
+git add .
+git commit -m "Enter changes u made"
+git push
+git status
